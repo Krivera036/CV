@@ -1,0 +1,28 @@
+
+
+body{
+background-color: powderblue;
+}
+h1{
+  color:#e58a8a;
+}
+h3{
+color:#00909e;
+}
+
+a{
+color: #95389e;
+
+}
+
+hr{
+border-style: none;
+border-top: dotted;
+border-color: grey;
+width:5%;
+
+}
+img{
+width: 500px;
+  height: 400px;
+}
